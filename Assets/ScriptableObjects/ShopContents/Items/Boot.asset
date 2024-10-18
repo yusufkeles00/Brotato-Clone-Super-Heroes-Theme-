@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e4435ea01cf044ba9fa050fb85c8c9, type: 3}
+  m_Name: Boot
+  m_EditorClassIdentifier: 
+  itemTitle: Soldier Boots
+  itemDescription: move speed
+  itemCost: 75
+  itemPicture: {fileID: 21300000, guid: b3eb7525f4988104383f2a04311eca0c, type: 3}
